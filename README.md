@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nebulleux
 - 👀 I’m interested in programmation, animes, videogames, DIY
-- 🌱 I’m currently learning PHP
+- 🌱 I’m currently learning Angular
 - 📫 How to reach me | jbropp@gmail.com | @nebulleux | NieRbulleux#6026
 
 <!---
